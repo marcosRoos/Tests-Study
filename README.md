@@ -1,10 +1,11 @@
 <img src="http://unmaintained.tech/badge.svg"/>
 
 <h1 align="center">
-  <img src="https://github.com/marcosRoos/Tests-Study/blob/main/img/icons/bug_report_white_24dp.svg" width="64px"/> <br/>
+  <img src="https://github.com/marcosRoos/Tests-Study/blob/main/img/icons/bug_report_white_24dp.svg#gh-dark-mode-only" width="64px"/> 
+  <img src="https://github.com/marcosRoos/Tests-Study/blob/main/img/icons/bug_report_black_24dp.svg#gh-light-mode-only" width="64px"/> <br/>
   A Study About Tests</h1>
 <p align="justify"> 
-  &emsp; Test are not only a matter of quality assurance, it is something more deep, more interesting than this. Testing can show us our own flaws as programmers. It is used to find bugs, yes, but bugs are caused by humans. Maybe choosing a framework which had a serious unresolved issue can cause your software to break apart on later stages of development, that is a human error, both by the people developing the framework and by the one who choose the framework. If a bug is find on earlyer stages (e.g. during the design stage) it is cheaper to resolve, so it may cost more time to create good tests, but it pays it self on long term. <br/> <br/>
+  &emsp; Testing is not only a matter of quality assurance, it is something deeper, more interesting than this. Testing can show us our own flaws as programmers. It is used to find bugs, yes, but bugs are caused by humans. Maybe choosing a framework which had a serious unresolved issue can cause your software to break apart on later stages of development, that is a human error, both by the people developing the framework and by the one who choose the framework. If a bug is find on earlyer stages (e.g. during the design stage) it is cheaper to resolve, so it may cost more time to create good tests, but it pays itself on long term. <br/> <br/>
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@ Testing is not the same as debuging, while testing involves planning, designing,
 
 ### Automation 
 <p align="justify">&emsp; It happens from time to time, that a system needs to be refactored, this leads to a bunch of problems, a lot of times the person who is refactoring is not the same who implemented, and even if it is the same person, it is really easy to make a mistake and break the code, but fear not! if your testing is good, it eases the search for the problem and therefore to solve it. <br/>
-  &emsp; As you may imagine, testing may be time consuming and creating a lot of tests <ins>will</ins> be laborious. So tests automation is the hero of the day, automation still needs to be coded, but with pratice enough, they will fast forward a lot of the work. </p> <br/>
+  &emsp; As you may imagine, testing may be time consuming and creating a lot of tests <ins>will</ins> be laborious. So tests automation is the hero of the day, automation still needs to be coded, but with enough pratice, they will fast forward a lot of the work. </p> <br/>
   
 ### Test Pyramid
 <p align="center">
